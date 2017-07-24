@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <VMs>
+    <vm>
+      <hvServer>localhost</hvServer>
+      <vmName>VMName</vmName>
+      <os>FreeBSD</os>
+      <ipv4></ipv4>
+      <sshKey>lisa_id_rsa.ppk</sshKey>
+    </vm>
+  </VMs>
+</config>
